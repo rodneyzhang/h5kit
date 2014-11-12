@@ -1,4 +1,4 @@
 h5kit
 =====
 
-Ember Starter
+Create a starter based on ember.js to setup a front app rapidly.
